@@ -10,11 +10,13 @@ This is the sample project used in the 4/5/2011 hands on intro to Git.
 ## Training Notes
 
 1. Install Git
-	1. Windows
-	2. Mac OS X
+	1. [Windows](http://code.google.com/p/msysgit/downloads/list?can=3)
+	2. [Mac OS X](http://code.google.com/p/git-osx-installer/downloads/list?can=3)
 	3. Linux
-2. Create Github account
-3. Create key pair
+		- sudo apt-get install git-core
+2. [Create Github account](https://github.com/signup/free)
+3. [Create key pair](http://github.com/guides/providing-your-ssh-key)
+	- Apply public key to [Github account](https://github.com/account/ssh)
 4. Fork this repo
 5. Clone the new fork
 6. Change the copyright at the botttom to your name and blog if you have one
