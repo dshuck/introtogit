@@ -15,13 +15,14 @@ This is the sample project used in the 4/5/2011 hands on intro to Git.
 	2. Mac OS X
 	3. Linux
 2. Create Github account
-3. Fork this repo
-4. Clone the new fork
-5. Change the copyright at the botttom to your name and blog if you have one
-6. Commit the change
-7. Work issues as logged in Github issues
-8. Commit code after each issue is worked
-9. Push commits to Github
+3. Create key pair
+4. Fork this repo
+5. Clone the new fork
+6. Change the copyright at the botttom to your name and blog if you have one
+7. Commit the change
+8. Work issues as logged in Github issues
+9. Commit code after each issue is worked
+10. Push commits to Github
 
 ## Copyrights and Licensing
 
