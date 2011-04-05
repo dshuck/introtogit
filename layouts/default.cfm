@@ -6,6 +6,15 @@
  
 		<title>Intro to Git :: DFW CFML User Group</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<link rel="stylesheet" type="text/css" href="iehacks.css" />
+		<![endif]-->
+		 
+		<!--[if lte IE 7]>
+		<link rel="stylesheet" type="text/css" href="ie67hacks.css" />
+		<![endif]-->
 	</head>
 	<body>
 		<div>
