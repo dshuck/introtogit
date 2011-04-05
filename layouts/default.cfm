@@ -28,7 +28,7 @@
 		    <nav>
 		        <ul>
 		            <li><a href="/">home</a></li>
-		            <li><a href="/introtogit">Intro to Git Home</a></li>
+		            <li><a href="#buildURL('main.default')#">Intro to Git Home</a></li>
 		        </ul>
 		    </nav>
 		</header>
