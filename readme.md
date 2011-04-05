@@ -8,6 +8,21 @@ This is the sample project used in the 4/5/2011 hands on intro to Git.
 - Created initially by [Steve Good](http://stevegood.org/) ([@stevegood](http://github.com/stevegood))
 - Edited by members of the [DFW CFML User Group](http://dfwcfml.org/) ([@dfwcfml](http://github.com/dfwcfml))
 
+## Training Notes
+
+1. Install Git
+	1. Windows
+	2. Mac OS X
+	3. Linux
+2. Create Github account
+3. Fork this repo
+4. Clone the new fork
+5. Change the copyright at the botttom to your name and blog if you have one
+6. Commit the change
+7. Work issues as logged in Github issues
+8. Commit code after each issue is worked
+9. Push commits to Github
+
 ## Copyrights and Licensing
 
 All code is freely licensed using the GPL 2.0 license except where otherwise noted.
