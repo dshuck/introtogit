@@ -45,6 +45,9 @@
 		            </p>
 		            <br /><hr /><br />
 		        </article>
+		        <article>
+		        #body#
+		        </article>
 		    </section>
 		    <aside>
 		        <h2>Linkage</h2>
